@@ -10,7 +10,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 
-import cms.cm7.ButtonDemo;
+import cms.cmGUI.ButtonDemo;
 
 public class GUIPersonne {
 	
